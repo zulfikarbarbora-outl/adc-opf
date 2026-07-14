@@ -1,0 +1,1284 @@
+{
+  "library": "old-piano-FB",
+  "format": "opus-48k",
+  "sourceRepo": "https://github.com/zulfikarbarbora-outl/old-piano-FB",
+  "previewRepo": "https://github.com/zulfikarbarbora-outl/old-piano-fb-opus-48",
+  "branch": "main",
+  "fileCount": 101,
+  "baseUrl": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/",
+  "files": [
+    {
+      "file": "A2.opus",
+      "name": "A2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/A2.opus",
+      "size": 61113,
+      "note": "A2",
+      "midiNote": 45,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "A4.opus",
+      "name": "A4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/A4.opus",
+      "size": 37806,
+      "note": "A4",
+      "midiNote": 69,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "A5.opus",
+      "name": "A5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/A5.opus",
+      "size": 24937,
+      "note": "A5",
+      "midiNote": 81,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As0.opus",
+      "name": "As0.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/As0.opus",
+      "size": 67268,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As2.opus",
+      "name": "As2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/As2.opus",
+      "size": 63177,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As3.opus",
+      "name": "As3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/As3.opus",
+      "size": 54901,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As6.opus",
+      "name": "As6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/As6.opus",
+      "size": 11387,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As7.opus",
+      "name": "As7.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/As7.opus",
+      "size": 7116,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "B0.opus",
+      "name": "B0.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/B0.opus",
+      "size": 56639,
+      "note": "B0",
+      "midiNote": 23,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "B3.opus",
+      "name": "B3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/B3.opus",
+      "size": 61853,
+      "note": "B3",
+      "midiNote": 59,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "B5.opus",
+      "name": "B5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/B5.opus",
+      "size": 24705,
+      "note": "B5",
+      "midiNote": 83,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "B6.opus",
+      "name": "B6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/B6.opus",
+      "size": 11612,
+      "note": "B6",
+      "midiNote": 95,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "B7.opus",
+      "name": "B7.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/B7.opus",
+      "size": 7253,
+      "note": "B7",
+      "midiNote": 107,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C2.opus",
+      "name": "C2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/C2.opus",
+      "size": 100415,
+      "note": "C2",
+      "midiNote": 36,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C3.opus",
+      "name": "C3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/C3.opus",
+      "size": 53244,
+      "note": "C3",
+      "midiNote": 48,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C5.opus",
+      "name": "C5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/C5.opus",
+      "size": 38113,
+      "note": "C5",
+      "midiNote": 72,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Cs2.opus",
+      "name": "Cs2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/Cs2.opus",
+      "size": 96441,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Cs3.opus",
+      "name": "Cs3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/Cs3.opus",
+      "size": 59813,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Cs4.opus",
+      "name": "Cs4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/Cs4.opus",
+      "size": 52166,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Cs6.opus",
+      "name": "Cs6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/Cs6.opus",
+      "size": 20894,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Cs7.opus",
+      "name": "Cs7.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/Cs7.opus",
+      "size": 9006,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "D3.opus",
+      "name": "D3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/D3.opus",
+      "size": 47328,
+      "note": "D3",
+      "midiNote": 50,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "D4.opus",
+      "name": "D4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/D4.opus",
+      "size": 61960,
+      "note": "D4",
+      "midiNote": 62,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "D5.opus",
+      "name": "D5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/D5.opus",
+      "size": 36283,
+      "note": "D5",
+      "midiNote": 74,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "D6.opus",
+      "name": "D6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/D6.opus",
+      "size": 24220,
+      "note": "D6",
+      "midiNote": 86,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Ds1.opus",
+      "name": "Ds1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/Ds1.opus",
+      "size": 53124,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Ds2.opus",
+      "name": "Ds2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/Ds2.opus",
+      "size": 93691,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Ds4.opus",
+      "name": "Ds4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/Ds4.opus",
+      "size": 53360,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Ds5.opus",
+      "name": "Ds5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/Ds5.opus",
+      "size": 29931,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Ds6.opus",
+      "name": "Ds6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/Ds6.opus",
+      "size": 25939,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Ds7.opus",
+      "name": "Ds7.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/Ds7.opus",
+      "size": 10145,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E1.opus",
+      "name": "E1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/E1.opus",
+      "size": 62727,
+      "note": "E1",
+      "midiNote": 28,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E2.opus",
+      "name": "E2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/E2.opus",
+      "size": 95917,
+      "note": "E2",
+      "midiNote": 40,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E3.opus",
+      "name": "E3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/E3.opus",
+      "size": 64680,
+      "note": "E3",
+      "midiNote": 52,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E5.opus",
+      "name": "E5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/E5.opus",
+      "size": 30512,
+      "note": "E5",
+      "midiNote": 76,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "F1.opus",
+      "name": "F1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/F1.opus",
+      "size": 87024,
+      "note": "F1",
+      "midiNote": 29,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "F3.opus",
+      "name": "F3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/F3.opus",
+      "size": 53583,
+      "note": "F3",
+      "midiNote": 53,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "F4.opus",
+      "name": "F4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/F4.opus",
+      "size": 46007,
+      "note": "F4",
+      "midiNote": 65,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "F6.opus",
+      "name": "F6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/F6.opus",
+      "size": 20487,
+      "note": "F6",
+      "midiNote": 89,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Fs5.opus",
+      "name": "Fs5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/Fs5.opus",
+      "size": 31112,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Fs6.opus",
+      "name": "Fs6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/Fs6.opus",
+      "size": 16709,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Fs7.opus",
+      "name": "Fs7.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/Fs7.opus",
+      "size": 6684,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "G1.opus",
+      "name": "G1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/G1.opus",
+      "size": 81832,
+      "note": "G1",
+      "midiNote": 31,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "G3.opus",
+      "name": "G3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/G3.opus",
+      "size": 57818,
+      "note": "G3",
+      "midiNote": 55,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "G4.opus",
+      "name": "G4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/G4.opus",
+      "size": 59868,
+      "note": "G4",
+      "midiNote": 67,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "G5.opus",
+      "name": "G5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/G5.opus",
+      "size": 28990,
+      "note": "G5",
+      "midiNote": 79,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "G7.opus",
+      "name": "G7.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/G7.opus",
+      "size": 6542,
+      "note": "G7",
+      "midiNote": 103,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Gs0.opus",
+      "name": "Gs0.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/Gs0.opus",
+      "size": 67557,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Gs1.opus",
+      "name": "Gs1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/Gs1.opus",
+      "size": 105613,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Gs2.opus",
+      "name": "Gs2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/Gs2.opus",
+      "size": 63738,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Gs3.opus",
+      "name": "Gs3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/Gs3.opus",
+      "size": 60774,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Gs4.opus",
+      "name": "Gs4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/Gs4.opus",
+      "size": 52568,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Gs5.opus",
+      "name": "Gs5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/Gs5.opus",
+      "size": 28218,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Gs6.opus",
+      "name": "Gs6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/Gs6.opus",
+      "size": 14226,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Gs7.opus",
+      "name": "Gs7.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/Gs7.opus",
+      "size": 8329,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "samples_A0.opus",
+      "name": "samples_A0.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/samples_A0.opus",
+      "size": 66991,
+      "note": "A0",
+      "midiNote": 21,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "samples_A1.opus",
+      "name": "samples_A1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/samples_A1.opus",
+      "size": 90301,
+      "note": "A1",
+      "midiNote": 33,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "samples_A3.opus",
+      "name": "samples_A3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/samples_A3.opus",
+      "size": 47881,
+      "note": "A3",
+      "midiNote": 57,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "samples_A6.opus",
+      "name": "samples_A6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/samples_A6.opus",
+      "size": 12066,
+      "note": "A6",
+      "midiNote": 93,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "samples_A7.opus",
+      "name": "samples_A7.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/samples_A7.opus",
+      "size": 6275,
+      "note": "A7",
+      "midiNote": 105,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "samples_As5.opus",
+      "name": "samples_As5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/samples_As5.opus",
+      "size": 24161,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "samples_B2.opus",
+      "name": "samples_B2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/samples_B2.opus",
+      "size": 59748,
+      "note": "B2",
+      "midiNote": 47,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "samples_B4.opus",
+      "name": "samples_B4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/samples_B4.opus",
+      "size": 49759,
+      "note": "B4",
+      "midiNote": 71,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "samples_C1.opus",
+      "name": "samples_C1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/samples_C1.opus",
+      "size": 81268,
+      "note": "C1",
+      "midiNote": 24,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "samples_C4.opus",
+      "name": "samples_C4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/samples_C4.opus",
+      "size": 50105,
+      "note": "C4",
+      "midiNote": 60,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "samples_C6.opus",
+      "name": "samples_C6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/samples_C6.opus",
+      "size": 20912,
+      "note": "C6",
+      "midiNote": 84,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "samples_C7.opus",
+      "name": "samples_C7.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/samples_C7.opus",
+      "size": 11006,
+      "note": "C7",
+      "midiNote": 96,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "samples_Cs5.opus",
+      "name": "samples_Cs5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/samples_Cs5.opus",
+      "size": 34972,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "samples_D2.opus",
+      "name": "samples_D2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/samples_D2.opus",
+      "size": 69429,
+      "note": "D2",
+      "midiNote": 38,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "samples_D7.opus",
+      "name": "samples_D7.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/samples_D7.opus",
+      "size": 12169,
+      "note": "D7",
+      "midiNote": 98,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "samples_E4.opus",
+      "name": "samples_E4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/samples_E4.opus",
+      "size": 46937,
+      "note": "E4",
+      "midiNote": 64,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "samples_E6.opus",
+      "name": "samples_E6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/samples_E6.opus",
+      "size": 25454,
+      "note": "E6",
+      "midiNote": 88,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "samples_F2.opus",
+      "name": "samples_F2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/samples_F2.opus",
+      "size": 87486,
+      "note": "F2",
+      "midiNote": 41,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "samples_F5.opus",
+      "name": "samples_F5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/samples_F5.opus",
+      "size": 38206,
+      "note": "F5",
+      "midiNote": 77,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "samples_F7.opus",
+      "name": "samples_F7.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/samples_F7.opus",
+      "size": 7432,
+      "note": "F7",
+      "midiNote": 101,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "samples_Fs1.opus",
+      "name": "samples_Fs1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/samples_Fs1.opus",
+      "size": 69737,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "samples_Fs3.opus",
+      "name": "samples_Fs3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/samples_Fs3.opus",
+      "size": 60897,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "samples_G6.opus",
+      "name": "samples_G6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/samples_G6.opus",
+      "size": 16930,
+      "note": "G6",
+      "midiNote": 91,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "small_A0.opus",
+      "name": "small_A0.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/small_A0.opus",
+      "size": 46651,
+      "note": "A0",
+      "midiNote": 21,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "small_A1.opus",
+      "name": "small_A1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/small_A1.opus",
+      "size": 62721,
+      "note": "A1",
+      "midiNote": 33,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "small_A3.opus",
+      "name": "small_A3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/small_A3.opus",
+      "size": 53487,
+      "note": "A3",
+      "midiNote": 57,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "small_A6.opus",
+      "name": "small_A6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/small_A6.opus",
+      "size": 11686,
+      "note": "A6",
+      "midiNote": 93,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "small_A7.opus",
+      "name": "small_A7.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/small_A7.opus",
+      "size": 6594,
+      "note": "A7",
+      "midiNote": 105,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "small_As5.opus",
+      "name": "small_As5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/small_As5.opus",
+      "size": 21704,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "small_B2.opus",
+      "name": "small_B2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/small_B2.opus",
+      "size": 68221,
+      "note": "B2",
+      "midiNote": 47,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "small_B4.opus",
+      "name": "small_B4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/small_B4.opus",
+      "size": 47404,
+      "note": "B4",
+      "midiNote": 71,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "small_C1.opus",
+      "name": "small_C1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/small_C1.opus",
+      "size": 57116,
+      "note": "C1",
+      "midiNote": 24,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "small_C4.opus",
+      "name": "small_C4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/small_C4.opus",
+      "size": 49584,
+      "note": "C4",
+      "midiNote": 60,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "small_C6.opus",
+      "name": "small_C6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/small_C6.opus",
+      "size": 18993,
+      "note": "C6",
+      "midiNote": 84,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "small_C7.opus",
+      "name": "small_C7.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/small_C7.opus",
+      "size": 11196,
+      "note": "C7",
+      "midiNote": 96,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "small_Cs5.opus",
+      "name": "small_Cs5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/small_Cs5.opus",
+      "size": 34447,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "small_D2.opus",
+      "name": "small_D2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/small_D2.opus",
+      "size": 74678,
+      "note": "D2",
+      "midiNote": 38,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "small_D7.opus",
+      "name": "small_D7.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/small_D7.opus",
+      "size": 11809,
+      "note": "D7",
+      "midiNote": 98,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "small_E4.opus",
+      "name": "small_E4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/small_E4.opus",
+      "size": 48050,
+      "note": "E4",
+      "midiNote": 64,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "small_E6.opus",
+      "name": "small_E6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/small_E6.opus",
+      "size": 23049,
+      "note": "E6",
+      "midiNote": 88,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "small_F2.opus",
+      "name": "small_F2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/small_F2.opus",
+      "size": 75733,
+      "note": "F2",
+      "midiNote": 41,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "small_F5.opus",
+      "name": "small_F5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/small_F5.opus",
+      "size": 33735,
+      "note": "F5",
+      "midiNote": 77,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "small_F7.opus",
+      "name": "small_F7.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/small_F7.opus",
+      "size": 7829,
+      "note": "F7",
+      "midiNote": 101,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "small_Fs1.opus",
+      "name": "small_Fs1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/small_Fs1.opus",
+      "size": 47675,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "small_Fs3.opus",
+      "name": "small_Fs3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/small_Fs3.opus",
+      "size": 67280,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "small_G6.opus",
+      "name": "small_G6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/old-piano-fb-opus-48/main/small_G6.opus",
+      "size": 16169,
+      "note": "G6",
+      "midiNote": 91,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    }
+  ],
+  "byNote": {
+    "21": [
+      "samples_A0.opus",
+      "small_A0.opus"
+    ],
+    "23": [
+      "B0.opus"
+    ],
+    "24": [
+      "samples_C1.opus",
+      "small_C1.opus"
+    ],
+    "28": [
+      "E1.opus"
+    ],
+    "29": [
+      "F1.opus"
+    ],
+    "31": [
+      "G1.opus"
+    ],
+    "33": [
+      "samples_A1.opus",
+      "small_A1.opus"
+    ],
+    "36": [
+      "C2.opus"
+    ],
+    "38": [
+      "samples_D2.opus",
+      "small_D2.opus"
+    ],
+    "40": [
+      "E2.opus"
+    ],
+    "41": [
+      "samples_F2.opus",
+      "small_F2.opus"
+    ],
+    "45": [
+      "A2.opus"
+    ],
+    "47": [
+      "samples_B2.opus",
+      "small_B2.opus"
+    ],
+    "48": [
+      "C3.opus"
+    ],
+    "50": [
+      "D3.opus"
+    ],
+    "52": [
+      "E3.opus"
+    ],
+    "53": [
+      "F3.opus"
+    ],
+    "55": [
+      "G3.opus"
+    ],
+    "57": [
+      "samples_A3.opus",
+      "small_A3.opus"
+    ],
+    "59": [
+      "B3.opus"
+    ],
+    "60": [
+      "samples_C4.opus",
+      "small_C4.opus"
+    ],
+    "62": [
+      "D4.opus"
+    ],
+    "64": [
+      "samples_E4.opus",
+      "small_E4.opus"
+    ],
+    "65": [
+      "F4.opus"
+    ],
+    "67": [
+      "G4.opus"
+    ],
+    "69": [
+      "A4.opus"
+    ],
+    "71": [
+      "samples_B4.opus",
+      "small_B4.opus"
+    ],
+    "72": [
+      "C5.opus"
+    ],
+    "74": [
+      "D5.opus"
+    ],
+    "76": [
+      "E5.opus"
+    ],
+    "77": [
+      "samples_F5.opus",
+      "small_F5.opus"
+    ],
+    "79": [
+      "G5.opus"
+    ],
+    "81": [
+      "A5.opus"
+    ],
+    "83": [
+      "B5.opus"
+    ],
+    "84": [
+      "samples_C6.opus",
+      "small_C6.opus"
+    ],
+    "86": [
+      "D6.opus"
+    ],
+    "88": [
+      "samples_E6.opus",
+      "small_E6.opus"
+    ],
+    "89": [
+      "F6.opus"
+    ],
+    "91": [
+      "samples_G6.opus",
+      "small_G6.opus"
+    ],
+    "93": [
+      "samples_A6.opus",
+      "small_A6.opus"
+    ],
+    "95": [
+      "B6.opus"
+    ],
+    "96": [
+      "samples_C7.opus",
+      "small_C7.opus"
+    ],
+    "98": [
+      "samples_D7.opus",
+      "small_D7.opus"
+    ],
+    "101": [
+      "samples_F7.opus",
+      "small_F7.opus"
+    ],
+    "103": [
+      "G7.opus"
+    ],
+    "105": [
+      "samples_A7.opus",
+      "small_A7.opus"
+    ],
+    "107": [
+      "B7.opus"
+    ]
+  }
+}
